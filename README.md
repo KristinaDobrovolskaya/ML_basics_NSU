@@ -9,8 +9,9 @@
 
 Дата лекции | Конспект | Домашнее задание | Комментарий |
 |:----:|:----:|:----:|----|
-|30.09.2024| [Лекция 0. Вводная лекция](https://rutube.ru/video/5e3f5f8e55d7a30ae27189f0901bba13/) |---|---|---|
-|02.10.2024| [Лекция 1. Методология машинного обучения](https://rutube.ru/video/private/f3f1b0e3856f9bf82e8fe7423c2dfeed/?r=wd&p=dP_KAOvch7-JD4Xg-kIgtg) | 
-|07.10.2024| [Лекция 2. Метрические методы](https://rutube.ru/video/private/5eff9d0eb96d496f2210108b8ed7ab5e/?r=wd&p=F6UPZKfh7dDvmEAQmIqP4g) | 
-|09.10.2024| [Лекция 3. Линейные модели классификации и регрессии](https://rutube.ru/video/private/06fb4fb4112265ba87bc31ca9cc6cfd6/?p=bY2ti69jL-Gsdf8V5xwY1g) | 
-|15.10.2024| [Лекция 4. Ядерные методы машинного обучения и непараметрической статистики](https://rutube.ru/video/private/d5d79641996708ded3d040b469de507f/?p=RDWAMMqW-H4VUJJEF63HAg) | 
+|30.09.2024| [Введение в питон](https://colab.research.google.com/drive/1VfQ_zl8rlCPZM97VMM5lAClFM41mcoj8?pli=1&authuser=2) |---|---|---|
+|30.09.2024| [Лекция 0. Вводная лекция](https://colab.research.google.com/drive/1BROa0lWwKjJw9LQ6SCFRKQ5H-82BAkAV?pli=1&authuser=2) |---|---|---|
+|02.10.2024| [Лекция 1.](https://colab.research.google.com/drive/19qJbsCXOQgKr4K9C6g4LEtuvuZFsHtRf?pli=1&authuser=2) | 
+|07.10.2024| Лекция 2. Математика | 
+|09.10.2024| [Лекция 3. Статистика](https://colab.research.google.com/drive/1IbYnvXIi0X3Er9YZr915yy7pJXS6Im3h?pli=1&authuser=2) [/ссылка на тренировочную таблицу](https://drive.google.com/file/d/1JDH_zmW87T4mozLTkbg11xOIp2vCL8f7/view?usp=drive_link) | 
+|15.10.2024| [Лекция 4. Ядерные методы машинного обучения и непараметрической статистики](https://colab.research.google.com/drive/1RXnKQ33I_0xKJT0i70pWw7cVxwThgoXa?pli=1&authuser=2) | 
