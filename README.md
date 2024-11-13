@@ -14,4 +14,7 @@
 |02.10.2024| [Лекция 1.](https://colab.research.google.com/drive/19qJbsCXOQgKr4K9C6g4LEtuvuZFsHtRf?pli=1&authuser=2) | [ДЗ_1](https://colab.research.google.com/drive/1-8z2BuKPqfjpM71xKMugLJyHpzOzapuy#scrollTo=Q5571TQ6LS2w) |
 |07.10.2024| Лекция 2. Математика | [ДЗ_2](https://colab.research.google.com/drive/1WP618hFutFKfF6-6TXCWeaODMMKV3mBt#scrollTo=GrwkEMOoXVP0) |
 |09.10.2024| [Лекция 3. Статистика](https://colab.research.google.com/drive/1IbYnvXIi0X3Er9YZr915yy7pJXS6Im3h?pli=1&authuser=2) [/ссылка на тренировочную таблицу](https://drive.google.com/file/d/1JDH_zmW87T4mozLTkbg11xOIp2vCL8f7/view?usp=drive_link) | 
-|15.10.2024| [Лекция 4. Ядерные методы машинного обучения и непараметрической статистики](https://colab.research.google.com/drive/1RXnKQ33I_0xKJT0i70pWw7cVxwThgoXa?pli=1&authuser=2) | 
+|15.10.2024| Лекция 4 | [ДЗ_3](https://colab.research.google.com/drive/1uIYUeJlCQj94gPjcsJnKP43TVlbR-hqK#scrollTo=T9s3E7-mo9qF)
+|16.10.2024| [Лекция 5](https://colab.research.google.com/drive/13hjukXPEPqnJveXa9rJYsBJos0_d1GEl) | 
+|21.10.2024| Лекция 6 | 
+|23.10.2024| Лекция 7 | [ДЗ_4_линейная_регрессия](https://colab.research.google.com/drive/1TZI19S2iQCIyyXulW7SelUj-yfwqvV6Y#scrollTo=6jSIhE7m-A7V)
